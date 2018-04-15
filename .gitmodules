@@ -1,3 +1,0 @@
-[submodule "themes/dgraph"]
-    path = themes/dgraph
-    url = https://github.com/dgraph-io/hugo-dgraph-theme
