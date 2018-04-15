@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://test.inksandpens.com/"
 languageCode = "en-us"
 title = "Inks and Pens"
 theme = "dgraph"
