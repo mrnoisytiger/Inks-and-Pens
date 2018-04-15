@@ -1,8 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Inks and Pens"
-theme = "dgraph"
-author = "Felix Jen"
-
-paginate = 8
-
