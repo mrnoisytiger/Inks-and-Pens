@@ -1,9 +1,14 @@
 baseURL = "https://test.inksandpens.com/"
 languageCode = "en-us"
 title = "Inks and Pens"
-theme = "dgraph"
+theme = "Pixyll"
 
 author = "Felix Jen"
 paginate = 5
+enableEmoji = true
+DefaultContentLanguage = "en"
+relativeURLs = true
+canoify Urls = true
+languageCode = "en-us"
 
 copyright = "Copyright (c) 2013-2018, Felix Jen; all rights reserved."
