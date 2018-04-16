@@ -1,7 +1,9 @@
 ---
-title: "First Post"
-date: 2018-04-15T15:25:47-07:00
-draft: false
+title: First Post
+date: 2018-04-15T22:25:47.000Z
+image: /images/uploads/img_2858-thumb-1.jpg
+tags:
+  - test
 author: Felix Jen
 ---
 
