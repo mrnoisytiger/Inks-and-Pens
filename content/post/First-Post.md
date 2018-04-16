@@ -5,6 +5,7 @@ image: /images/uploads/img_2858-thumb-1.jpg
 tags:
   - test
 author: Felix Jen
+draft: true
 ---
 
 ## Test Post
