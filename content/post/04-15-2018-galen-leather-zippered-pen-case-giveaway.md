@@ -7,7 +7,7 @@ tags:
   - leather
   - pen case
 author: Felix Jen
-draft: true
+draft: false
 ---
 I'd like to thank [Galen Leather](https://www.galenleather.com/) once again for sponsoring this review and giveaway of their Leather Zippered 3 Pen Case! They make some great leather products, such as pen cases, notebook covers, and folios, and you should check them out! They are a small two-person company, from Istanbul, Turkey specializing in handmade leather, wood, and brass products. You can find our previous review of their Leather Pen Roll [here](https://www.inksandpens.com/galen-leather-pen-roll-review/). **You can find a giveaway of the product featured on the bottom of the page.**
 
@@ -45,6 +45,6 @@ Back to the outside of the case, let's take a look at the zipper. From my experi
 
 All in all, I really like this pen case. It's small compact size makes it perfect for taking around in a bag or even a coat pocket. It's made of high quality materials and should stand up to the test of time without a hitch. This pen case comes out to $39.00 USD (not including shipping from Turkey) and can be found [here](https://www.galenleather.com/collections/zippered-pen-pencil-cases). At $39, it's a very solid value for what you can get out of it.
 
-![](/images/uploads/img_2910.jpg)
+![null](/images/uploads/img_2910.jpg)
 
-![](/images/uploads/img_2918.jpg)
+![null](/images/uploads/img_2918.jpg)
