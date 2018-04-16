@@ -8,7 +8,7 @@ tags:
   - pen case
 author: Felix Jen
 ---
-![]()
+![null]()
 
 I'd like to thank [Galen Leather](https://www.galenleather.com/) once again for sponsoring this review and giveaway of their Leather Zippered 3 Pen Case! They make some great leather products, such as pen cases, notebook covers, and folios, and you should check them out! They are a small two-person company, from Istanbul, Turkey specializing in handmade leather, wood, and brass products. You can find our previous review of their Leather Pen Roll [here](https://www.inksandpens.com/galen-leather-pen-roll-review/). **You can find a giveaway of the product featured on the bottom of the page.**
 
@@ -28,4 +28,4 @@ Opening up the pen case, we are greeted by the star of the show, the velvet line
 
 Though I'm a big fan of the elastic system, my only small gripe is the lack of a bottom elastic. Sometimes, when jostling the case with the three pens, the bottoms of the pens might get in contact with one another. Despite not being a terrible problem, I think it would be a bit better to have loops or elastics on the bottom, just for extra protection. 
 
-![](/images/uploads/img_2870-1.jpg)
+![null](/images/uploads/img_2870-1.jpg)
