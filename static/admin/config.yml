@@ -6,15 +6,15 @@ media_folder: "static/images/uploads" # Storage for media files
 public_folder: "/images/uploads"
 
 collections:
-  - name: "blog"
-    label: "Blog"
+  - name: "post"
+    label: "Post"
     folder: "_posts/blog"
     create: true
     slug: "{{month}}-{{day}}-{{year}}-{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name:"date", widget:"datetime"}
-      - {label: "Feature Image", name:"thumb", widget:"image"}
-      - {label: "Tags", name:"tags". widget:"hidden"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Feature Image", name: "thumb", widget: "image"}
+      - {label: "Tags", name: "tags". widget: "hidden"}
+      - {label: "Author", name: "author", widget: "string"}
       - {label: "Body", name:"body", widget:"body"}
-      - {label: "Author", name:"author", widgets:"string"}
