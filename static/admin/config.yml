@@ -5,7 +5,7 @@ backend:
 media_folder: "static/images/uploads" # Storage for media files
 public_folder: "/images/uploads"
 
-collection:
+collections:
   - name: "blog"
     label: "Blog"
     folder: "_posts/blog"
