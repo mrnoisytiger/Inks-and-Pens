@@ -2,8 +2,6 @@ backend:
   name: git-gateway
   branch: deploy
 
-publish_mode: editorial_workflow
-
 media_folder: "static/images/uploads" # Storage for media files
 public_folder: "/images/uploads"
 
@@ -19,4 +17,5 @@ collections:
       - {label: "Feature Image", name: "image", widget: "image", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Author", name: "author", widget: "string", default: "felix Jen"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
