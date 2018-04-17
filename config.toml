@@ -4,8 +4,11 @@ title = "Inks and Pens"
 theme = "pixyll"
 
 author = "Felix Jen"
-paginate = 5
 enableEmoji = true
 DefaultContentLanguage = "en"
+
+[params]
+  disqus_shortname = "inkoutsidethebottle"
+  paginate = 8
 
 copyright = "Copyright (c) 2013-2018, Felix Jen; all rights reserved."

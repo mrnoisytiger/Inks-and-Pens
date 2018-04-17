@@ -7,6 +7,10 @@ a:hover {
     color: rgb(25,0,0);
 }
 
+.site-title img {
+    height: 40px;
+}
+
 /* === FOR THE MAIN PAGE === */
 
 /* Reduce post title size on mobile and desktop */
@@ -75,6 +79,19 @@ a:hover {
     font-size: 2rem;
 }
 
-.post-content p {
-    font-size: 1.1rem;
+/* Reduce post text size */
+@media (min-width: 320px) and (max-width: 480px) {
+    .post-content p {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 480px) {
+    .post-content p {
+        font-size: 1.1rem;
+    }
+}
+
+.post-content img {
+    width: 100%;
 }
