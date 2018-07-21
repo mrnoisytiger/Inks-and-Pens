@@ -1,6 +1,6 @@
 ---
 title: Noodler's Baystate Blue Review
-date: '2015-07-07'
+date: '2015-09-07'
 author: Felix Jen
 image: /content/images/2015/09/IMG_5208-Thumb.jpg
 draft: false
