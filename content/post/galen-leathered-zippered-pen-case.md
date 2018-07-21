@@ -2,7 +2,7 @@
 title: Galen Leather Zippered Pen Case + GIVEAWAY
 date: '2017-01-27'
 author: Felix Jen
-image: content/images/2017/01/IMG_2858-Thumb-1.jpg
+image: /content/images/2017/01/IMG_2858-Thumb-1.jpg
 toc: false
 draft: false
 type: post
