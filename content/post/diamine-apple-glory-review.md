@@ -45,5 +45,3 @@ This ink is not waterproof at all sadly. The water test was performed by placing
 This ink is available in both 30mL bottles for $7.50 or an 80mL bottle for $14.95 and can be found at many online fountain pen retailers that sell inks.
 
 ![](/content/images/2015/09/IMG_5170.jpg)
-
-<iframe src="http://lib.inksandpens.com/slideshows/Diamine/Apple%20Glory/" height="400px" width="100%" noborder"></iframe>
