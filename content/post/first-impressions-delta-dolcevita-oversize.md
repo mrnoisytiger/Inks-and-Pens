@@ -2,7 +2,7 @@
 title: First Impressions - Delta Dolcevita Oversize
 date: '2015-08-10'
 author: Felix Jen
-image: 'https://www.inksandpens.com/content/images/2015/08/IMG_4955-Thumb.jpg'
+image: /content/images/2015/08/IMG_4955-Thumb.jpg
 draft: false
 type: post
 ---
