@@ -1,4 +1,5 @@
 /admin  /admin/         301
 /       /               200
+/post/* /post/:splat    200
 /*      /post/:splat    200
 
