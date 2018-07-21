@@ -58,4 +58,3 @@ So, what do you guys think? Do you have a way to deal with BSB stains? Any horro
 
 ![](/content/images/2015/09/IMG_5209-1.jpg)
 
-<iframe src="http://lib.inksandpens.com/slideshows/Noodler's/Baystate%20Blue/" width="100%" height="400px" noborder></iframe>
