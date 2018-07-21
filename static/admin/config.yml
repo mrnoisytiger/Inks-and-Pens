@@ -3,7 +3,7 @@ backend:
   branch: master
 
 media_folder: "static/images/uploads" # Storage for media files
-public_folder: "/images/uploads"
+public_folder: "/content/images/uploads"
 
 collections:
   - name: "post"
