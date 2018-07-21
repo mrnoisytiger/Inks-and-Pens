@@ -1,4 +1,4 @@
-baseURL = "https://www.inksandpens.com"
+baseURL = "https://test.inksandpens.com"
 languageCode = "en-us"
 title = "Inks and Pens"
 theme = "pixyll"
