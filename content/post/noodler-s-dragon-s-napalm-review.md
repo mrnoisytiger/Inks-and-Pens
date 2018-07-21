@@ -26,39 +26,39 @@ The label is shows a fierce dragon with the words, "The ONLY sepia shading carmi
 
 Now, here is a quick writing sample. It's an interesting orange-red color that sometimes go to pink in the correct lighting conditions. This color is honestly very hard to photograph as the color depends on the ambient lighting. Personally, I would not write a whole page with this ink.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Ink.JPG) 
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Ink.JPG) 
 
 For the pen, I used my go-to Nemosine Singularity Demonstrator with a TWSBI B nib. The B nib is a bit thinner than the western B, but nothing major. It's really smooth and awesome.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Nib.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Nib.JPG)
 
 The review is written on what is now discontinued, HP 28lb Copy paper. The review was actually written a while ago, when I still used the 28lb paper. I have since moved to the HP 32lb Premium Laser.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Paper.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Paper.JPG)
 
 Here is the swab of the ink.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Swab.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Swab.JPG)
 
 For a standard ink, this ink is quite well behaved. This ink is quite wet and has an average amount of lubrication. There is barely any shading coming from the ink and it is highly saturated. There is no feathering, very little show-through, and a bit of bleed through on this paper. Keep in mind that this paper is not of the best quality. On Rhodia and Clairfontaine, the ink behaves much better. 
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Characteristics.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Characteristics.JPG)
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Characteristics%202.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Characteristics%202.JPG)
 
 The ink does not have an overly long dry time, but it is definitely not the fastest. It dries at around 16 seconds.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Dry%20Time.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Dry%20Time.JPG)
 
 Lastly, here is the water test. The top grid of the test had water drops placed on them for 10 seconds, then vigorously wiped downwards. The bottom text did not receive any drops and was only wiped, to show ink smearing. The test showed noticeable lifting of the ink, but still leaving a little on the page. The ink has a medium amount of smear. I would not consider it waterproof. 
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Water.JPG)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Water.JPG)
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Water%20After.jpg)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Water%20After.jpg)
 
 Here is a scan of the ink. Use it to read the review, and not for color accuracy. It is very far off. The pictures are a better representation.
 
-![](http://inkyreviews.tk/Noodlers/Dragon's%20Napalm/Scan.jpg)
+![](/content/images/reviews/Noodlers/Dragon's%20Napalm/Scan.jpg)
 
 That's all for now folks! Stay tuned for more to come!
 

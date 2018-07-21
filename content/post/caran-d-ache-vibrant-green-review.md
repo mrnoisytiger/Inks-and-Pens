@@ -35,7 +35,7 @@ The ink behaves quite well, even on this not-as-stunning paper. There is little 
 
 ![](/content/images/2015/07/IMG_4855.jpg)
 
-![](http://inkyreviews.tk/Caran%20d'ache/Water.jpg)
+![](/content/images/reviews/Caran%20d'ache/Water.jpg)
 
 ###Pros
 
