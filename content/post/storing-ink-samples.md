@@ -25,5 +25,3 @@ Test tube racks can be found at a large number of online retailers, such as [Ama
 ![](/content/images/2015/08/IMG_4978-1.jpg)
 
 How do all of you guys store your ink samples? Do you use a test tube rack or something similar? Share with me all your cool sample storage devices in the comments below!
-
-<iframe src="http://lib.inksandpens.com/slideshows/How-to/Sample%20Holder/" width="100%" height="400px" scrolling="no"></iframe>

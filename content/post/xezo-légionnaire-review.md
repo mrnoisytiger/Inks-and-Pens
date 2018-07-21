@@ -30,8 +30,6 @@ Below is a picture of the writing sample and a video of it.
 
 ![](/content/images/2015/07/IMG_0006.jpg)
 
-<iframe width="710" height="400" src="https://www.youtube.com/embed/-flIL6sQfVQ" frameborder="0" allowfullscreen style="max-width: 100%"></iframe>
-
 The pen comes with a warranty card and a neat little certificate of authenticity. You can see that I got pen #115/500. 
 
 ![](/content/images/2015/07/IMG_4901.jpg)

@@ -55,5 +55,3 @@ This ink can be found in 3oz. bottles from any pen retailers that carry Noodler'
 ![](/content/images/2015/09/IMG_5201.jpg)
 
 What do you guys think about this ink? Do you like the color? How do you feel about the color changing effect? Is it too "gimmicky?" Let me know down in the comments! I love hearing from you guys!
-
-<iframe src="http://lib.inksandpens.com/slideshows/Noodler's/General%20of%20the%20Armies/" width="100%" height="400px" noborder></iframe>

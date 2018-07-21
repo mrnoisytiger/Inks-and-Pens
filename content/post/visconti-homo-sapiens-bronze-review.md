@@ -42,9 +42,5 @@ Here is a picture of a writing sample. The pen was dipped in Montblanc Special E
 
 ![](/content/images/2015/07/IMG_0034.jpg)
 
-And here is a quick YouTube video of it!
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/47FTEW7KECc" frameborder="0" allowfullscreen style="max-width: 100%; padding-bottom: 14px;"></iframe>
-
 This pen retails for $695 at most sites, but can sometimes be found for less. I think this pen is quite worth it. It is *the* **most** expensive pen in my collection right now! 
 

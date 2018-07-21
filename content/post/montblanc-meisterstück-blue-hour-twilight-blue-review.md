@@ -66,5 +66,3 @@ This ink is a little on the pricy side but is cheaper than the other MB special 
 * Not the most water resistant
 
 What do you guys think about the color? Let me know in the comments! Does this ink look similar to anything else?
-
-<iframe src="http://lib.inksandpens.com/slideshows/Montblanc/Twilight%20Blue/" scrolling="no" width="100%" height="400px;"></iframe>

@@ -35,5 +35,3 @@ The pen does not have a "top section" and the pen unscrews from the bottom, star
 For the measurements, the pen comes out to 5.75" (14.6cm) and 1.55oz (44g). The pen takes a Parker refill that can be found at a huge number of places. I find the pen to be a good girth and weight for my slightly above-average hands.
 
 This writing instrument is fairly hard to find, but it is doable. You can head to your local Porsche Design boutique to some authorized retailers. This pen retails for $595. 
-
-<iframe src="http://lib.inksandpens.com/slideshows/Porsche%20Design/Laser%20Flex/" width="100%" height="400px" noborder></iframe>

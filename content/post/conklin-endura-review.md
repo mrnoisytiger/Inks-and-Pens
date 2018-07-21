@@ -26,10 +26,6 @@ This pen comes in at 5.5" capped, and 6.7" posted. It is quite a long pen, so I 
 
 This pen is offered in a Fine (F), Medium (M), and stub nib. I was sent an M nib. The nib was a tiny bit scratchy due to the tines being misaligned. I put realigned them and the pen was much smoother. It has a good amount of feedback, but not enough to be scratchy. It is also quite wet, using a normal ink. The nib has a little bit of spring to it, but I would not go very far, for fear of springing it. 
 
-Here is a writing sample of the pen. It was done with an M nib with Noodler's Dromgoole's Alamo's Twilight.
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rZMhYc3WiDQ" frameborder="0" allowfullscreen style="max-width: 100%; padding-bottom: 12px;"></iframe>
-
 ![](/content/images/2015/07/IMG_0065.jpg)
 
 Being a standard #6 sized nib, it can be easily swapped for other #6 jobs (except Noodler's). The nib and feed are friction fit into a nib collar and pull straight out. The nib/feed collar is screwed into the section of the pen and can also be unscrewed, to swap the entire unit if necessary. 

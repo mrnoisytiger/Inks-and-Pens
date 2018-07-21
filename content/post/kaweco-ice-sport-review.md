@@ -28,8 +28,6 @@ Being a pocket pen, it is inherently a small piece. The pen comes in at 4.125" (
 
 Kaweco offers nib sizes from a Fine (F) to a Double Broad (BB). The nib currently in the pen is a BB nib that has been customized by Art of [ArtsNibs](http://artsnibs.com/). The nib has been turned into double broad stub and has been given added flex. I was also sent a stock Medium (M) nib and it was quite smooth and wet. Here is a writing sample of the BB that was customized. It was done with [J. Herbin Rouge Hematite](/j-herbin-rouge-hematite-review/)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/S2FP5qdgxbM" frameborder="0" allowfullscreen style="max-width: 100%; padding-bottom: 12px;"></iframe>
-
 ![](/content/images/2015/07/IMG_4901-1.jpg)
 
 The Kaweco uses standard short international cartridges only or can be turned into an eyedropper. The pen does not fit standard international converters, but it *may* fit the Monteverde small converter. You can also easily turn this pen into an eye dropper by adding a layer of silicone grease at the threads between the section and barrel. Silicone grease can be easily found at your local hardware store. The eye dropper converted pen holds about 3mL of ink while a standard short international cartridge holds about 0.6-0.7mL of ink. The eyedropper system works well, but [Rouge Hematite](/j-herbin-rouge-hematite-review/) ends up clogging the nib due to it's sparkles. 

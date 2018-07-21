@@ -43,5 +43,3 @@ This pen is quite a large pen itself but is not exceptionally heavy! The pen com
 This pen with 0.999 sterling silver appointments and a 0.1 carat brown diamond retails for a hefty price tag of $3640 and can be found at a couple online retailers as well as a handful of brick-and-mortar stores.
 
 Would any of you guys buy a pen like this? Let me know what you think about this pen in the comments below!
-
-<iframe src="http://lib.inksandpens.com/slideshows/Urso%20Luxury/White%20Tiger/" width="100%" height="400px" noborder></iframe>

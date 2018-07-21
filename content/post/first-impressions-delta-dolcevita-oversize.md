@@ -34,5 +34,3 @@ The filling system on this pen is somewhat of a letdown. Personally, I would pre
 The pen clocks in at a 5.5" (14cm) capped, 5.2" (13.1cm) open and 7" (17.6cm) posted. Being an oversized pen, the diameter is a whopping 0.75". However, the pen is not very heavy and only weighs a total of 1.5oz (50g). 
 
 This pen is available at an MSRP of $895.
-
-<iframe src="http://lib.inksandpens.com/slideshows/Delta/Dolcevita%20Oversided/" width="100%" height="400px" scrolling="no"></iframe>

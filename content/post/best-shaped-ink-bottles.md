@@ -46,8 +46,6 @@ I also did a review of the [Montblanc Corn Poppy Red](/montblanc-corn-poppy-red-
 
 If you literally get to the last bits of ink left in any bottle, you can also decant the remain ink into a small sample vial. The long cylindrical container should bump up the height of the ink by a good amount letting you at least fill from it. 
 
-<iframe src="http://lib.inksandpens.com/slideshows/How-to/Best%20Ink%20Bottle/" width="100%" height="400px" scrolling="no"></iframe>
-
 What are your favorite ink bottles? Let me know in the comments as I always enjoy discovering new things! 
 
 
