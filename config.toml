@@ -1,4 +1,4 @@
-baseURL = "https://test.inksandpens.com"
+baseURL = "https://www.inksandpens.com"
 languageCode = "en-us"
 title = "Inks and Pens"
 theme = "pixyll"
@@ -9,6 +9,6 @@ DefaultContentLanguage = "en"
 
 [params]
   paginate = 8
-  google_analytics_id = "UA-118000647-1"
+#  google_analytics_id = "UA-118000647-1"
 
 copyright = "Copyright (c) 2013-2018, Felix Jen; all rights reserved."
