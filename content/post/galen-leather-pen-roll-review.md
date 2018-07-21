@@ -14,7 +14,7 @@ It's been a long while since I've done an accessory review, so let's get right t
 
 
 
-!\[](/content/images/2016/06/IMG_1311-2.jpg)
+![](/content/images/2016/06/IMG_1311-2.jpg)
 
 
 
@@ -22,7 +22,7 @@ The pen roll comes in a lovely custom cardboard box that was quite the unboxing 
 
 
 
-!\[](/content/images/2016/06/export---2-2.jpg)
+![](/content/images/2016/06/export---2-2.jpg)
 
 
 
@@ -30,11 +30,11 @@ Pulling off the top lid reveals the pen roll wrapped in another cardboard accent
 
 
 
-!\[](/content/images/2016/06/export---15-2.jpg)
+![](/content/images/2016/06/export---15-2.jpg)
 
 
 
-!\[](/content/images/2016/06/export---12-2.jpg)
+![](/content/images/2016/06/export---12-2.jpg)
 
 
 
@@ -42,7 +42,7 @@ Taking the product out of the box, you are instantly greeted by the strong scent
 
 
 
-!\[](/content/images/2016/06/IMG_1313-2.jpg)
+![](/content/images/2016/06/IMG_1313-2.jpg)
 
 
 
@@ -50,7 +50,7 @@ Unfilled, the pen roll lays reasonably flat on the desk, but nonetheless has a g
 
 
 
-!\[](/content/images/2016/06/IMG_1315-2.jpg)
+![](/content/images/2016/06/IMG_1315-2.jpg)
 
 
 
@@ -58,11 +58,11 @@ Opening it up, you'll find the 5 slots and a top flap covering the openings. The
 
 
 
-!\[](/content/images/2016/06/IMG_1320-2.jpg)
+![](/content/images/2016/06/IMG_1320-2.jpg)
 
 
 
-!\[](/content/images/2016/06/IMG_1326-2.jpg)
+![](/content/images/2016/06/IMG_1326-2.jpg)
 
 
 
@@ -70,11 +70,11 @@ The insides of the pouch are unfinished leather, that gives it a suede feel. The
 
 
 
-!\[](/content/images/2016/06/IMG_1343-2.jpg)
+![](/content/images/2016/06/IMG_1343-2.jpg)
 
 
 
-!\[](/content/images/2016/06/IMG_1341-1.jpg)
+![](/content/images/2016/06/IMG_1341-1.jpg)
 
 
 
@@ -82,7 +82,7 @@ Astute readers may have noticed an "FJ" on the bottom right corner of the front 
 
 
 
-!\[](/content/images/2016/06/IMG_1317-1.jpg)
+![](/content/images/2016/06/IMG_1317-1.jpg)
 
 
 
@@ -90,7 +90,7 @@ Now, onto a few other concerns I have about this pen roll. First off, the leathe
 
 
 
-!\[](/content/images/2016/06/IMG_1319-1.jpg)
+![](/content/images/2016/06/IMG_1319-1.jpg)
 
 
 
@@ -98,7 +98,7 @@ Next, the pen roll itself seems very \*handmade\*, which it indeed is. The edges
 
 
 
-!\[](/content/images/2016/06/IMG_1335-2.jpg)
+![](/content/images/2016/06/IMG_1335-2.jpg)
 
 
 
