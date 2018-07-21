@@ -6,7 +6,7 @@ theme = "pixyll"
 author = "Felix Jen"
 enableEmoji = true
 DefaultContentLanguage = "en"
-disqus_shortname = "inkoutsidethebottle"
+disqusShortname = "inkoutsidethebottle"
 
 [params]
   paginate = 8
