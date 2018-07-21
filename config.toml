@@ -1,9 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.inksandpens.com"
 languageCode = "en-us"
 title = "Inks and Pens"
-theme = "dgraph"
+theme = "pixyll"
 
 author = "Felix Jen"
-paginate = 5
+enableEmoji = true
+DefaultContentLanguage = "en"
+
+[params]
+  paginate = 8
+  google_analytics_id = "UA-118000647-1"
 
 copyright = "Copyright (c) 2013-2018, Felix Jen; all rights reserved."
