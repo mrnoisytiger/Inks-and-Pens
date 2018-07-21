@@ -2,7 +2,7 @@
 title: Galen Leather Pen Roll Review
 date: '2016-06-11'
 author: Felix Jen
-image: 'https://www.inksandpens.com/content/images/2016/06/export---12-thumb.jpg'
+image: /content/images/2016/06/export---12-thumb.jpg
 draft: false
 type: post
 ---
