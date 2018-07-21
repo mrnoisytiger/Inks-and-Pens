@@ -30,9 +30,7 @@ The water test for this ink shows that it is not very resistant to water, but sm
 
 ![](/content/images/2015/07/IMG_4890.jpg)
 
-The ink comes in a standard Jentle bottle with a very wide lip and a nice inkwell insert that aids in filling. Just invert the bottle the tip it back over to make filling super easy. *(Photo thanks to [JetPens](http://www.jetpens.com/) and were used with written permission.)*
-
-![](http://static1.jetpens.com//images/a/000/060/60492.JPG)
+The ink comes in a standard Jentle bottle with a very wide lip and a nice inkwell insert that aids in filling. Just invert the bottle the tip it back over to make filling super easy.
 
 Personally, I find this to be a very well-rounded and solid blue with nothing to complain about. The huge amount of sheen does set it apart from other blues within the same range. The color is dark enough to be professional but still interesting enough for letter writing and journalling.
 
