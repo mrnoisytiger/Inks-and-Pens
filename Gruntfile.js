@@ -102,7 +102,7 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     nokey: true,
-                    url: "https://unaudited.felixjen.com/",
+                    url: "https://test.felixjen.com/",
                     locale: "en_US",
                     strategy: "desktop",
                     threshold: 70
