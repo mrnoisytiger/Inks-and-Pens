@@ -47,5 +47,3 @@ For the measurements of the pen, it comes out to 5.75" (14.5cm) capped and 6.75"
 This pen has an MSRP of $995 for the fountain pen and $795 for the rollerball. It can be found at most authorized Visconti retailers, but keep in mind that it is a limited edition, so grab it while you can!
 
 Which Homo Sapiens version do you guys like better? Personally, I prefer the Florentine Hills because I'm a huge fan of green! Let me know down the comments!
-
-<iframe src="http://lib.inksandpens.com/slideshows/Visconti/Homo%20Sapiens%20Crystal/" height="400px" width="100%" noborder></iframe>
