@@ -1,14 +1,2 @@
 [context.production.environment]
     HUGO_VERSION="0.32"
-
-[[redirects]]
-    from = "/admin"
-    to = "/admin/"
-    status = 301
-    force = true
-
-[[redirects]]
-    from = "/*"
-    to = "/post/:splat"
-    status = 301
-    force = true
