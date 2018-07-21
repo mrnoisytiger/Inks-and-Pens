@@ -2,7 +2,7 @@
 title: Pentel Graph Gear 600 Review
 date: '2015-09-09'
 author: Felix Jen
-image: 'https://www.inksandpens.com/content/images/2015/09/IMG_5229-Thumb.jpg'
+image: /content/images/2015/09/IMG_5229-Thumb.jpg
 draft: false
 type: post
 ---
