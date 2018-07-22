@@ -14,5 +14,11 @@
         "grunt-processhtml": "latest",
         "grunt-shell": "^2.1.0",
         "grunt-uncss": "latest"
+    },
+    "dependencies": {
+        "atomic-algolia": "^0.3.15"
+    },
+    "scripts": {
+        "algolia": "atomic-algolia"
     }
 }
