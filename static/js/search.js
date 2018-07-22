@@ -16,7 +16,7 @@ result = "<div class='post'>\
 <p class='post-summary'>{{summary}}</p></a><div>"
 
 // Initilize Algolia Search
-const search = instantsearch({
+var search = instantsearch({
     appId: 'KC42205INS',
     apiKey: '3d0223189f9d70a998a4881cf48c83f8',
     indexName: 'Inks and Pens',
