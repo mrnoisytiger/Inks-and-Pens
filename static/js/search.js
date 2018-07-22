@@ -8,16 +8,12 @@ $("#search-button").click(function() {
     $("body").css("overflow", "hidden");
 });
 
-result = `
-<div class="post">
-<a class="post-link" href="{{permalink}}">
-<div id="clearfix"></div>
-<img class="post-thumbnail" src="{{image}}">
-<h3 class="h2 post-title">{{title}}</h3>
-<p class="post-summary">{{summary}}</p>
-</a>
-</div>
-`
+result = "<div class='post'>\
+<a class='post-link' href='{{permalink}}'>\
+<div id='clearfix'></div>\
+<img class='post-thumbnail' src='{{image}}'>\
+<h3 class='h2 post-title'>{{title}}</h3>\
+<p class='post-summary'>{{summary}}</p></a><div>"
 
 // Initilize Algolia Search
 const search = instantsearch({
