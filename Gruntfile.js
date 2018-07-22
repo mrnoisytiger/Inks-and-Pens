@@ -79,18 +79,6 @@ module.exports = function(grunt) {
                     dest: 'public/images'
                 }],
             }
-        },
-
-        pagespeed: {
-            dist: {
-                options: {
-                    nokey: true,
-                    url: "https://test.felixjen.com/",
-                    locale: "en_US",
-                    strategy: "desktop",
-                    threshold: 70
-                },
-            }
         }
     });
 
@@ -100,8 +88,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-processhtml');
     grunt.loadNpmTasks('grunt-contrib-htmlmin');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
-    grunt.loadNpmTasks('grunt-pagespeed');
 
-    grunt.registerTask('default',['cssmin','concat_css','uglify','processhtml','htmlmin','imagemin','pagespeed']);
+    grunt.registerTask('default',['cssmin','concat_css','uglify','processhtml','htmlmin','imagemin']);
     
 };
