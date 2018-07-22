@@ -51,3 +51,14 @@ $("#close-button").click(function() {
         $("body").css("overflow", "scroll");
     });
 });
+
+$(document).keypress(function (event) {
+    if ( event.which == 27 ) {
+        $("#search-overlay").animate({
+            opacity: 0
+        }, 100, function() {
+            $("#search-overlay").css("display", "none");
+            $("body").css("overflow", "scroll");
+        });
+     }
+})
