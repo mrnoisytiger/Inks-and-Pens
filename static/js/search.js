@@ -20,16 +20,18 @@ var search = instantsearch({
     appId: 'KC42205INS',
     apiKey: '3d0223189f9d70a998a4881cf48c83f8',
     indexName: 'Inks and Pens',
-    routing: true
+    routing: true,
 });
-  
+
 search.addWidget(
-    instantsearch.widgets.hits({
+    instantsearch.widgets.infiniteHits({
         container: document.getElementById('hits'),
         templates: {
             empty: 'No results',
-            item: result
-        }
+            item: result,
+        },
+        escapeHits: true,
+        showMoreLabel: "More"
     })
 );
 
@@ -39,6 +41,7 @@ search.addWidget(
         placeholder: 'Search posts'
     })
 );
+
 
 search.start();
 $("#searchbox .ais-search-box").append("<i id='close-button' class='far fa-times-circle'></i>");

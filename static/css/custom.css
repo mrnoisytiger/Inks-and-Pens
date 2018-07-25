@@ -285,11 +285,32 @@ code {
     display: none !important;
 }
 
-.ais-hits--item {
+.ais-infinite-hits--item {
     padding: 0px 30px;
     margin-bottom: 50px;
     max-width: 768px;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.ais-infinite-hits--showmore {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 30px;
+}
+
+.ais-infinite-hits--showmoreButton {
+    width: 120px;
+    height: 55px;
+    background-color: transparent;
+    background: transparent;
+    border: 3px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ais-infinite-hits--showmoreButton:disabled {
+    border: 3px solid lightgrey;
 }
