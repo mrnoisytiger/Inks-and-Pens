@@ -17,33 +17,33 @@ All templates have light gray lines with a border on the left and right sides of
 ##US Letter sized Templates (8.5" x 11")
 
 ###Seyes (French)
-* [Seyes Ruled](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Seyes%20Ruled.pdf)
+* [Seyes Ruled](/content/files/paper-templates/US%20Letter%20Seyes%20Ruled.pdf)
 
 ###Lined
 
-* [College Ruled Lined (7.1mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Lined%20College.pdf)
-* [Wide Ruled Lined (8.7mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Wide.pdf)
-* [Narrow Ruled Lined (6.35mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Narrow.pdf)
-* [Narrow Ruled Lined (6.35mm) with 1" Top Margin](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Narrow%20(Margin).pdf)
-* [5mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Lined%205mm.pdf)
-* [6mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Lined%206mm.pdf)
-* [7mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Lined%207mm.pdf)
-* [8mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Lined%208mm.pdf)
+* [College Ruled Lined (7.1mm)](/content/files/paper-templates/US%20Lined%20College.pdf)
+* [Wide Ruled Lined (8.7mm)](/content/files/paper-templates/US%20Letter%20Wide.pdf)
+* [Narrow Ruled Lined (6.35mm)](/content/files/paper-templates/US%20Letter%20Narrow.pdf)
+* [Narrow Ruled Lined (6.35mm) with 1" Top Margin](/content/files/paper-templates/US%20Letter%20Narrow%20(Margin).pdf)
+* [5mm Lined](/content/files/paper-templates/US%20Letter%20Lined%205mm.pdf)
+* [6mm Lined](/content/files/paper-templates/US%20Letter%20Lined%206mm.pdf)
+* [7mm Lined](/content/files/paper-templates/US%20Letter%20Lined%207mm.pdf)
+* [8mm Lined](/content/files/paper-templates/US%20Letter%20Lined%208mm.pdf)
 
 ###Graph Ruled
 
-* [5mm Graph](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Graph%205mm.pdf)
-* [10mm Graph](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Graph%2010mm.pdf)
+* [5mm Graph](/content/files/paper-templates/US%20Letter%20Graph%205mm.pdf)
+* [10mm Graph](/content/files/paper-templates/US%20Letter%20Graph%2010mm.pdf)
 
 ###Dot Ruled
 
-* [College Ruled Dot (7.1mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%20College.pdf)
-* [Wide Ruled Dot (8.7mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%20Wide.pdf)
-* [Narrow Ruled Lined (6.35mm)](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%20Narrow.pdf)
-* [5mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%205mm.pdf)
-* [6mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%206mm.pdf)
-* [7mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%207mm.pdf)
-* [8mm Lined](http://lib.inksandpens.com/Paper%20Templates/US%20Letter%20Dot%208mm.pdf)
+* [College Ruled Dot (7.1mm)](/content/files/paper-templates/US%20Letter%20Dot%20College.pdf)
+* [Wide Ruled Dot (8.7mm)](/content/files/paper-templates/US%20Letter%20Dot%20Wide.pdf)
+* [Narrow Ruled Lined (6.35mm)](/content/files/paper-templates/US%20Letter%20Dot%20Narrow.pdf)
+* [5mm Lined](/content/files/paper-templates/US%20Letter%20Dot%205mm.pdf)
+* [6mm Lined](/content/files/paper-templates/US%20Letter%20Dot%206mm.pdf)
+* [7mm Lined](/content/files/paper-templates/US%20Letter%20Dot%207mm.pdf)
+* [8mm Lined](/content/files/paper-templates/US%20Letter%20Dot%208mm.pdf)
 
 ---
 
@@ -53,28 +53,28 @@ All templates have light gray lines with a border on the left and right sides of
 
 ###Lined
 
-* [College Ruled Lined (7.1mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%20College.pdf)
-* [Wide Ruled Lined (8.7mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%20Wide.pdf)
-* [Narrow Ruled Lined (6.35mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%20Narrow.pdf)
-* [5mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%205mm.pdf)
-* [6mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%206mm.pdf)
-* [7mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%207mm.pdf)
-* [8mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Lined%208mm.pdf)
+* [College Ruled Lined (7.1mm)](/content/files/paper-templates/A4%20Lined%20College.pdf)
+* [Wide Ruled Lined (8.7mm)](/content/files/paper-templates/A4%20Lined%20Wide.pdf)
+* [Narrow Ruled Lined (6.35mm)](/content/files/paper-templates/A4%20Lined%20Narrow.pdf)
+* [5mm Lined](/content/files/paper-templates/A4%20Lined%205mm.pdf)
+* [6mm Lined](/content/files/paper-templates/A4%20Lined%206mm.pdf)
+* [7mm Lined](/content/files/paper-templates/A4%20Lined%207mm.pdf)
+* [8mm Lined](/content/files/paper-templates/A4%20Lined%208mm.pdf)
 
 ###Graph Ruled
 
-* [5mm Graph](http://lib.inksandpens.com/Paper%20Templates/A4%20Graph%205mm.pdf)
-* [10mm Graph](http://lib.inksandpens.com/Paper%20Templates/A4%20Graph%2010mm.pdf)
+* [5mm Graph](/content/files/paper-templates/A4%20Graph%205mm.pdf)
+* [10mm Graph](/content/files/paper-templates/A4%20Graph%2010mm.pdf)
 
 ###Dot Ruled
 
-* [College Ruled Dot (7.1mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%20College.pdf)
-* [Wide Ruled Dot (8.7mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%20Wide.pdf)
-* [Narrow Ruled Lined (6.35mm)](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%20Narrow.pdf)
-* [5mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%205mm.pdf)
-* [6mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%206mm.pdf)
-* [7mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%207mm.pdf)
-* [8mm Lined](http://lib.inksandpens.com/Paper%20Templates/A4%20Dot%208mm.pdf)
+* [College Ruled Dot (7.1mm)](/content/files/paper-templates/A4%20Dot%20College.pdf)
+* [Wide Ruled Dot (8.7mm)](/content/files/paper-templates/A4%20Dot%20Wide.pdf)
+* [Narrow Ruled Lined (6.35mm)](/content/files/paper-templates/A4%20Dot%20Narrow.pdf)
+* [5mm Lined](/content/files/paper-templates/A4%20Dot%205mm.pdf)
+* [6mm Lined](/content/files/paper-templates/A4%20Dot%206mm.pdf)
+* [7mm Lined](/content/files/paper-templates/A4%20Dot%207mm.pdf)
+* [8mm Lined](/content/files/paper-templates/A4%20Dot%208mm.pdf)
 
 ---
 
