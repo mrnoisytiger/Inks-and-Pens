@@ -26,7 +26,7 @@ The paper used is standard HP 32lb Premium Laser Paper, found readily at Staples
 
 Here is a swab of the ink to get a look at the color of the ink in very wet conditions. Ignore the fingerprints!
 
-![Swab](http://inkymadness.tk/J.%20Herbin/Rouge%20Hematite%20(1670)%202.jpg)
+![Swab](/content/images/reviews/J.%20Herbin/Rouge%20Hematite%20(1670)%202.jpg)
 
 The ink is very wet coming out of a B nib and shows the sheen very nicely. The ink provides a good amount of lubrication for the nib, which pretty much glided over the paper. There is some shading from a light to a medium hue, ignoring the sparkles. So far, there has been no spread, feathering, show through, or bleed through on this paper. Like stated, this ink has gold sparkles floating around. I invert the pen around a couple of times every 3 lines to get a good mix of the sparkles in the ink. Even with the sparkles, the ink cleans out easily under running water with no sparkles left after 15 seconds. No problems so far. 
 
@@ -38,7 +38,7 @@ This ink takes a bit longer to dry than other inks, considering how wet it is. I
 
 ![Dry Time](/content/images/reviews/J.%20Herbin/Rouge%20Hematite/Dry%20Time.jpg)
 <br>
-Here is a comparison of this ink with other ink colors around! I tried to pick some similar colors in my swab collection found at [Inky Madness](http://inkymadness.tk/). The following is a list of the colors used from left to right.
+Here is a comparison of this ink with other ink colors around! The following is a list of the colors used from left to right.
 1. J. Herbin Rouge Hematite (This ink)
 2. Montblanc Corn Poppy Red
 3. Diamine Oxblood

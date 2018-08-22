@@ -28,7 +28,7 @@ The paper used is standard HP 32lb Premium Laser Paper, found readily at Staples
 
 Here is a swab of the ink to get a look at the color of the ink in very wet conditions. Ignore the fingerprints! 
 
-![Swab](http://inkymadness.tk/Sailor/Yama-Dori%20(Jentle)%203.jpg)
+![Swab](/content/images/reviews/Sailor/Yama-Dori%20(Jentle)%203.jpg)
 
 This ink is definitely well-behaved like most other Sailor inks. The ink is very wet and is quite lubricated. There is no bleed through and virtually no show through on my paper. On Tomoe River, there is also very little show through, even with a super wet nib. With a different nib, there is also a pretty big amount of shading. But, if the nib is too wet, the shading gets lost. 
 
